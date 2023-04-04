@@ -21,3 +21,7 @@ They are classified into two categories:
 1) Medical Waste Collector : Register themselves in the app by providing all the necessary details to get featured in the app.
 2) Pharmacies : Register their shops into the app so that the customers can sell them the unused medicines which upon reselling can bag profits.
 
+TECH STACK:
+
+<img width="436" alt="Screenshot 2023-04-04 152952" src="https://user-images.githubusercontent.com/91385710/229758538-d34f8ff5-94fc-4a2e-b5f7-2f338f3ff2f1.png">
+
