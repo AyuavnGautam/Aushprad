@@ -1,5 +1,6 @@
 # Aushprad
 Medical Waste Management App
+
 An application to resolve the impending dangers of medicinal waste which would focus on reducing medicinal waste at the source point, that is, waste produced by individuals at hospitals and homes.
 The application will feature three login sides, namely,
 
