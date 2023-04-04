@@ -4,6 +4,7 @@ An application to resolve the impending dangers of medicinal waste which would f
 The application will feature three login sides, namely,
 
 •	USER SIDE
+
 The app will provide user to dispose medicinal waste in the selected categories:
 1) Unused Unexpired Medicine : Unused leftover medicines can be returned back to the pharmacies which are featured in the app so that it can be resold.
 2) Expired Medicine : These medicines have a lowered potency so they are transferred to NGOs and Pharmaceutical companies to refactor them.
